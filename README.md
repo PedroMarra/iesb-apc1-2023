@@ -6,3 +6,9 @@ Repositório criado para submeter os códigos implementados na disciplina
 
 * aulas/: armazena os códigos exemplos das aulas
 * práticas/: armazena os códigos das atividades práticas
+
+## Como compilar
+```bash
+gcc praticas/questao01.c -o questao01 -lm
+./questao01
+```
